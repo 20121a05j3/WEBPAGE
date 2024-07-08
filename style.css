@@ -15,6 +15,12 @@
 	align-items: center;
 	color: #000;
 }
+.heading{
+    color:black;
+    font-family: 'Poppins', sans-serif;
+
+ }
+
 .menu ul{
 	display: flex;
 	align-items: center;
